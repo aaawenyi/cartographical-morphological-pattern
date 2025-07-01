@@ -1,0 +1,2 @@
+F:/map_pattern_recognition/code/yolov7-main/map_data2/images/train/San_francisco3.JPG
+F:/map_pattern_recognition/code/yolov7-main/map_data2/images/train/San_francisco4.JPG
